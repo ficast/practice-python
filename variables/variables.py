@@ -1,7 +1,7 @@
 price = 10
 rating = 4.9
 name = 'Filipe'
-is_published = False #booleans started with capital letter
+is_published = False  # booleans started with capital letter
 print(price)
 
 name = 'John Smith'

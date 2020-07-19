@@ -1,4 +1,4 @@
 print("Hello, World")
 print("o----")
 print(" ||||")
-print("*" * 10) #expression
+print("*" * 10)  # expression
